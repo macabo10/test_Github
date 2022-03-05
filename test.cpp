@@ -42,4 +42,8 @@ string balancedSums(vector<int> arr) {
         }        
     }
     return "NO";
+    
+    int test =1;
 }
+
+
